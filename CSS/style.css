@@ -1,0 +1,8 @@
+
+:root {
+    --Color_fondo: rgb(20 20 20);
+}
+
+body {
+    background-color: var(--Color_fondo);
+}
