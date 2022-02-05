@@ -5,4 +5,19 @@
 
 body {
     background-color: var(--Color_fondo);
+    
 }
+.nav-principal{
+    padding: 5rem;
+  background-color: var(--Color_fondo);
+
+}
+.principalNav{
+    color: red;
+    
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold
+     
+}     
+ 
